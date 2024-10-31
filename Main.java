@@ -1,6 +1,6 @@
 // SPDX-FileCopyrightText: 2024 Leonhard Blank leonhardblank@outlook.de
 //
-// SPDX-License-Identifier: HPND-MIT_disclaimer
+// SPDX-License-Identifier: HPND-MIT-disclaimer
 
 public class Main {
     public static void main(String[] args) {

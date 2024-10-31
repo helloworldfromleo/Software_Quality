@@ -1,6 +1,6 @@
 // SPDX-FileCopyrightText: 2024 Leonhard Blank leonhardblank@outlook.de
 //
-// SPDX-License-Identifier: HPND-MIT_disclaimer
+// SPDX-License-Identifier: HPND-MIT-disclaimer
 
 public class MyMaths {
 	// Method to calculate the greatest common divisor (GCD) of two numbers
