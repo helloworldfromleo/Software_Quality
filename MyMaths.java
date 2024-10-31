@@ -1,4 +1,3 @@
-package qm;
 
 public class MyMaths {
 	
@@ -6,7 +5,6 @@ public class MyMaths {
 		
 		int r;
 		if (n>m) {
-			
 			r = m;
 			m = n;
 			n = r;
@@ -14,7 +12,6 @@ public class MyMaths {
 		
 		r = m % n;
 		while (r != 0) {
-			
 			m = n;
 			n = r;
 			r = m % n;
