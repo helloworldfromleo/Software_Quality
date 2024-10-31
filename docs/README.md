@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Leonhard Blank <leonhardblank@outlook.de
+
+SPDX-License-Identifier: HPND-MIT_disclaimer
+-->
+
 # Software name
 MyMath 
 # Purpose 
